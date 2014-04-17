@@ -1,0 +1,1 @@
+nasm.exe -f win64 -o soundplayer.obj soundplayer.asm 
